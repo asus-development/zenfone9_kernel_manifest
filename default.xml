@@ -26,4 +26,5 @@
     <project path="kernel_platform/msm-kernel" name="micky387/android_kernel_asus_zenfone9" remote="github" revision="android-13.0" />
     <project path="kernel_platform/qcom/proprietary/devicetree" name="asus-development/zenfone9_qcom_devicetree" remote="github" revision="android-13.0" />
     <project path="vendor/qcom/proprietary" name="asus-development/zenfone9_vendor_qcom_devicetree" remote="github" revision="android-13.0" />
+    <project path="vendor/qcom/opensource" name="asus-development/zenfone9_qcom_opensource_devicetree" remote="github" revision="android-13.0" />
 </manifest>
