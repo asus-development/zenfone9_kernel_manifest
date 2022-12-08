@@ -23,7 +23,7 @@
     <project name="kernelplatform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" path="kernel_platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" clone-depth="1" remote="qcom" revision="c9f87ae369034b4942536a1c5bd62e4cd1d828e3" upstream="refs/heads/ks-kernel.lnx.1.0.r1-rel"/>
 
     <!-- Private Zenfone9 repo -->
-    <project path="kernel_platform/msm-kernel" name="micky387/android_kernel_asus_zenfone9" remote="github" revision="android-13.0" />
+    <project path="kernel_platform/msm-kernel" name="omnirom/android_kernel_asus_zenfone9" remote="github" revision="android-13.0" />
     <project path="kernel_platform/qcom/proprietary/devicetree" name="asus-development/zenfone9_qcom_devicetree" remote="github" revision="android-13.0" />
     <project path="vendor/qcom/proprietary" name="asus-development/zenfone9_vendor_qcom_devicetree" remote="github" revision="android-13.0" />
     <project path="vendor/qcom/opensource" name="asus-development/zenfone9_qcom_opensource_devicetree" remote="github" revision="android-13.0" />
